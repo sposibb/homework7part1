@@ -63,5 +63,28 @@ td{
     background-image: url(../img/anchorblack.png) no-repeat center center;
 }
 .a2{
-    background-image: url(../img/diamond_black.png);
+    background-image: url(../img/diamond_black.png) no-repeat center center;
 }
+.a3{
+    background-image: url(../img/eyeglassesblack.png) no-repeat center center;
+}
+.a4{
+    background-image: url(../img/monitorblack.png) no-repeat center center;
+}
+.a1:hover{
+    background-color: #0ec8cb;
+    background-image: url(../img/anchor_white.png) no-repeat center center;
+}
+.a2:hover{
+    background-color: #0ec8cb;
+    background-image: url(../img/diamondwhite.png) no-repeat center center;
+}
+.a3:hover{
+    background-color: #0ec8cb;
+    background-image: url(../img/eyeglasses_white.png) no-repeat center center;
+}
+.a4:hover{
+    background-color: #0ec8cb;
+    background-image: url(../img/monitor_white.png) no-repeat center center;
+}
+
