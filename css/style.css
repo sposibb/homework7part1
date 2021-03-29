@@ -11,7 +11,7 @@
     text-align: center;
   }
   header {
-      margin-left: 50px;
+    margin-left: 50px;
     width: 100%;
     text-align: center;
     margin-top: 150px;
@@ -52,7 +52,6 @@ table{
     margin-left: 250px;
 }
 td{
-    display: inline-block;
     width: 236px;
     height: 420px;
     background-color: #f7f7f7;
@@ -72,6 +71,7 @@ td{
     background-image: url(../img/monitorblack.png) no-repeat center center;
 }
 .a1:hover{
+    color: white;
     background-color: #0ec8cb;
     background-image: url(../img/anchor_white.png) no-repeat center center;
 }
