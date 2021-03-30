@@ -52,39 +52,43 @@ table{
     margin-left: 250px;
 }
 td{
+    padding-top: ;
     width: 236px;
     height: 420px;
     background-color: #f7f7f7;
     border: 1px solid #ececec;
     text-align: center;
 }
+a{
+    text-decoration: none;
+}
 .a1{
-    background-image: url(../img/anchorblack.png) no-repeat center center;
+    background-image: url(../img/anchorblack.png) 50px center no-repeat;
 }
 .a2{
-    background-image: url(../img/diamond_black.png) no-repeat center center;
+    background-image: url(../img/diamond_black.png) 50px center no-repeat;
 }
 .a3{
-    background-image: url(../img/eyeglassesblack.png) no-repeat center center;
+    background-image: url(../img/eyeglassesblack.png) 50px center no-repeat;
 }
 .a4{
-    background-image: url(../img/monitorblack.png) no-repeat center center;
+    background-image: url(../img/monitorblack.png) 50px center no-repeat;
 }
 .a1:hover{
     color: white;
     background-color: #0ec8cb;
-    background-image: url(../img/anchor_white.png) no-repeat center center;
+    background-image: url(../img/anchor_white.png) 50px center no-repeat;
 }
 .a2:hover{
     background-color: #0ec8cb;
-    background-image: url(../img/diamondwhite.png) no-repeat center center;
+    background-image: url(../img/diamondwhite.png) 50px center no-repeat;
 }
 .a3:hover{
     background-color: #0ec8cb;
-    background-image: url(../img/eyeglasses_white.png) no-repeat center center;
+    background-image: url(../img/eyeglasses_white.png) 50px center no-repeat;
 }
 .a4:hover{
     background-color: #0ec8cb;
-    background-image: url(../img/monitor_white.png) no-repeat center center;
+    background-image: url(../img/monitor_white.png) 50px center no-repeat;
 }
 
